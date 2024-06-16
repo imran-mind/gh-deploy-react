@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Deploy with Github Actions</h1>
+      <h1>Deploy with Github Actions, Updated</h1>
     </div>
   );
 }
